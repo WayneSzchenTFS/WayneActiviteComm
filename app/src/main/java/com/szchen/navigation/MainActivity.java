@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("Message2", "Bonjour- Message2" );
                 intent.putExtra("Message3", 345 );
                // startActivity(intent);
-               //deuxieme
+               //deuxieme v
                 startActivityForResult(intent, REQUEST_CODE);
 
 
